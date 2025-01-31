@@ -33,6 +33,7 @@
 .navigation {
     margin: auto;
     margin-top: 20px; /* Adjust margin as needed */
+    width: 100%; /* %100 genişlik, ekran boyutuna göre ayarlanır */
     max-width: 1320px; /* Set max width for better responsiveness */
 }
 
@@ -325,7 +326,7 @@
     cursor: pointer;
 }
 
-#addbasket,#confirm{
+#addbasket,#confirm,#confirm-modal{
     width:400px;
 }
 
@@ -344,19 +345,25 @@
     .modal{
         width:100%;
     }
-    .modal-content {
+    .modal-content{
         position: absolute;
         top: 50%;
         left: 50%;
         transform: translate(-50%, -50%);
         width: 50%;
     }
-    
     #addbasket{
         width: 80%;
         max-width: 150px;
         margin: 0 auto;
         font-size: 10px;
+    }
+    #confirm-modal{
+        width: 80%;
+        max-width: 150px;
+        margin: 0 auto;
+        font-size: 10px;
+       
     }
     #confirm{
         width: 80%;
@@ -364,13 +371,6 @@
         margin: 0 auto;
         font-size: 10px;
 
-    }
-    #confirm-modal{
-        width: 80%;
-        max-width: 150px;
-        margin: 0 auto;
-        font-size: 10px;
-      
     }
     #close {
         position: absolute;
@@ -415,7 +415,7 @@
         width: 80%;
         max-width: 150px;
         margin: 0 auto;
-        font-size: 10px;
+        font-size: 14px;
     }
     #close {
         position: absolute;
@@ -464,6 +464,7 @@
         font-size: 14px;
     }
     
+    
     #close {
         position: absolute;
         top: 20px; /* Butonun modal içeriğinin üstüne yaklaşmasını sağlar */
@@ -480,5 +481,4 @@
     }
 
 }
-
 

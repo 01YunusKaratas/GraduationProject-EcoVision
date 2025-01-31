@@ -29,14 +29,32 @@ document.getElementById('send-code').addEventListener('click', function() {
 // Kod doğrulama butonuna tıklama
 document.getElementById('verify-code').addEventListener('click', function() {
     const enteredCode = document.getElementById('code').value;
+    const phoneNumber = document.getElementById('phone').value;
 
     if (enteredCode === '') {
         alert('Lütfen doğrulama kodunu girin.');
         return;
     }
 
-    // Kod doğruysa yönlendirme yap (örneğin başka bir sayfaya)
-    alert('Doğrulama başarılı! Yönlendiriliyorsunuz...');
-    window.location.href = '/login.html'; // Doğrulama sonrası başka bir sayfaya yönlendir
+    // Doğrulama kodunu backend'e gönder
+    fetch('/verify-code', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({ phoneNumber, enteredCode })
+    })
+    .then(response => response.json())
+    .then(data => {
+        if (data.error) {
+            alert(data.error);
+        } else {
+            alert('Doğrulama başarılı! Yönlendiriliyorsunuz...');
+            window.location.href = '/login.html'; // Yönlendirme frontend tarafında yapılır
+        }
+    })
+    .catch(error => {
+        console.error('Hata:', error);
+        alert('Doğrulama yapılamadı, lütfen tekrar deneyin.');
+    });
 });
-
