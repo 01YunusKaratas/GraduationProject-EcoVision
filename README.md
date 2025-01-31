@@ -54,18 +54,30 @@ EcoClothBin, şehirlerdeki kıyafet bağış süreçlerini dijitalleştirmek ve 
 
 ### Proje Fotoğrafları
 
-1. ![User-Interface](https://github.com/01YunusKaratas/GraduationProject/blob/main/public/media/Project-User-Interface-1.png)
-2. ![User-Interface](https://github.com/01YunusKaratas/GraduationProject/blob/main/public/media/Project-User-Interface-2.png)
-3. ![User-Interface](https://github.com/01YunusKaratas/GraduationProject/blob/main/public/media/Project-User-Interface-3.png)
-4. ![User-Interface](https://github.com/01YunusKaratas/GraduationProject/blob/main/public/media/Project-User-Interface-4.png)
-5. ![Admin-Panel](https://github.com/01YunusKaratas/GraduationProject/blob/main/public/media/Project_1.jpeg)
-6. ![Admin-Panel](https://github.com/01YunusKaratas/GraduationProject/blob/main/public/media/Project_2.jpeg)
-7. ![Admin-Panel](https://github.com/01YunusKaratas/GraduationProject/blob/main/public/media/Project_3.jpeg)
-8. ![Admin-Panel](https://github.com/01YunusKaratas/GraduationProject/blob/main/public/media/Project_4.jpeg)
-9. ![Admin-Panel](https://github.com/01YunusKaratas/GraduationProject/blob/main/public/media/Project_5.jpeg)
-10. ![Admin-Panel](https://github.com/01YunusKaratas/GraduationProject/blob/main/public/media/Project_6.jpeg)
-11.![Admin-Panel](https://github.com/01YunusKaratas/GraduationProject/blob/main/public/media/Project_7.jpeg)
-12.![Admin-Panel](https://github.com/01YunusKaratas/GraduationProject/blob/main/public/media/Project_8.jpeg)
+1. 
+![User-Interface](https://github.com/01YunusKaratas/GraduationProject/blob/main/public/media/Project-User-Interface-1.png)
+2. 
+![User-Interface](https://github.com/01YunusKaratas/GraduationProject/blob/main/public/media/Project-User-Interface-2.png)
+3. 
+![User-Interface](https://github.com/01YunusKaratas/GraduationProject/blob/main/public/media/Project-User-Interface-3.png)
+4. 
+![User-Interface](https://github.com/01YunusKaratas/GraduationProject/blob/main/public/media/Project-User-Interface-4.png)
+5. 
+![Admin-Panel](https://github.com/01YunusKaratas/GraduationProject/blob/main/public/media/Project_1.jpeg)
+6. 
+![Admin-Panel](https://github.com/01YunusKaratas/GraduationProject/blob/main/public/media/Project_2.jpeg)
+7. 
+![Admin-Panel](https://github.com/01YunusKaratas/GraduationProject/blob/main/public/media/Project_3.jpeg)
+8. 
+![Admin-Panel](https://github.com/01YunusKaratas/GraduationProject/blob/main/public/media/Project_4.jpeg)
+9. 
+![Admin-Panel](https://github.com/01YunusKaratas/GraduationProject/blob/main/public/media/Project_5.jpeg)
+10. 
+![Admin-Panel](https://github.com/01YunusKaratas/GraduationProject/blob/main/public/media/Project_6.jpeg)
+11.
+![Admin-Panel](https://github.com/01YunusKaratas/GraduationProject/blob/main/public/media/Project_7.jpeg)
+12.
+![Admin-Panel](https://github.com/01YunusKaratas/GraduationProject/blob/main/public/media/Project_8.jpeg)
 
  
 
