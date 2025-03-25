@@ -20,7 +20,9 @@ EcoClothBin, şehirlerdeki kıyafet bağış süreçlerini dijitalleştirmek ve 
 👨‍💻 **Ömer Tekin Yavuz** - Proje Yöneticisi & Sistem Tasarımı  
 👨‍💻 **Yunus Emre Karataş** - Web Geliştirme (Frontend & Backend)  
 👨‍💻 **Muhsin Ay** - Windows Form Yönetim Paneli Geliştirme  
+👨‍💻 **Kadir Yıldız** - Mobil Geliştirme 
 🆕 **Mehmet Enes Şahin** - Elektrik & Elektronik Mühendisi, prototip geliştirme sürecinde destek sağlayacak  
+
 
 ---
 
